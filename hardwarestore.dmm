@@ -1,0 +1,669 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"bP" = (
+/obj/structure/toilet,
+/turf/open/floor/plating/concrete,
+/area/space)
+"bS" = (
+/obj/effect/decal/pallet,
+/obj/structure/closet/crate/large,
+/obj/structure/closet/crate/large,
+/turf/open/floor/plating/concrete,
+/area/space)
+"en" = (
+/obj/effect/turf_decal/trimline/yellow/warning{
+	dir = 5
+	},
+/turf/open/floor/plating/vampplating/mono,
+/area/space)
+"eO" = (
+/obj/structure/table,
+/turf/open/floor/plating/vampplating,
+/area/space)
+"eR" = (
+/obj/structure/vampfence{
+	dir = 8
+	},
+/turf/open/floor/plating/concrete,
+/area/space)
+"gi" = (
+/obj/structure/vampdoor/glass,
+/turf/open/floor/plating/vampplating,
+/area/space)
+"hO" = (
+/obj/structure/vampfence/corner{
+	dir = 8
+	},
+/turf/open/floor/plating/concrete,
+/area/space)
+"iR" = (
+/obj/effect/decal/pallet,
+/obj/structure/closet/crate/large,
+/turf/open/floor/plating/concrete,
+/area/space)
+"iZ" = (
+/obj/structure/table,
+/obj/machinery/light{
+	dir = 8
+	},
+/turf/open/floor/plating/vampplating/mono,
+/area/space)
+"jM" = (
+/obj/structure/chair/wood,
+/turf/open/floor/plating/concrete,
+/area/space)
+"kE" = (
+/obj/structure/rack,
+/turf/open/floor/plating/vampplating/mono,
+/area/space)
+"na" = (
+/obj/structure/fence/door/opened{
+	dir = 8
+	},
+/turf/open/floor/plating/concrete,
+/area/space)
+"nv" = (
+/obj/structure/fence/door/opened,
+/turf/open/floor/plating/concrete,
+/area/space)
+"oF" = (
+/obj/structure/vampdoor/npc,
+/turf/open/floor/plating/parquetry/old,
+/area/space)
+"oH" = (
+/obj/structure/closet/crate/bin,
+/turf/open/floor/plating/concrete,
+/area/space)
+"oS" = (
+/obj/structure/closet/crate/large,
+/obj/item/wrench,
+/obj/item/radio,
+/obj/item/stock_parts/water_recycler,
+/obj/item/stack/cable_coil/five,
+/obj/item/melee/vampirearms/tire,
+/obj/item/wallframe/picture,
+/obj/item/paint/paint_remover,
+/obj/item/stack/sticky_tape,
+/obj/item/fish_feed,
+/obj/item/kitchen/spoon,
+/obj/item/kitchen/spoon,
+/obj/item/kitchen/spoon,
+/obj/item/reagent_containers/spray/pestspray,
+/obj/item/chisel,
+/obj/item/stock_parts/cell,
+/obj/item/vending_refill/coffee,
+/obj/item/reagent_containers/food/condiment/saltshaker,
+/obj/item/reagent_containers/food/condiment/peppermill,
+/turf/open/floor/plating/parquetry/old,
+/area/space)
+"re" = (
+/obj/structure/trashcan,
+/obj/effect/decal/trash{
+	icon_state = "trash8"
+	},
+/turf/open/floor/plating/sidewalk,
+/area/space)
+"sm" = (
+/obj/item/kirbyplants/random{
+	pixel_x = 9;
+	pixel_y = 5
+	},
+/obj/item/kirbyplants/random{
+	pixel_x = 8;
+	pixel_y = 18
+	},
+/turf/open/floor/plating/concrete,
+/area/space)
+"sv" = (
+/obj/flag/usa{
+	pixel_y = 27
+	},
+/turf/open/floor/plating/vampplating,
+/area/space)
+"uz" = (
+/obj/item/melee/vampirearms/brick{
+	pixel_x = -8;
+	pixel_y = -7
+	},
+/turf/open/floor/plating/concrete,
+/area/space)
+"vS" = (
+/obj/structure/closet/crate/large,
+/obj/item/storage/toolbox/mechanical{
+	pixel_y = -2;
+	pixel_x = -2
+	},
+/obj/item/storage/toolbox/electrical{
+	pixel_x = 2;
+	pixel_y = 5
+	},
+/turf/open/floor/plating/parquetry/old,
+/area/space)
+"wi" = (
+/obj/structure/bricks,
+/turf/open/floor/plating/concrete,
+/area/space)
+"wK" = (
+/obj/effect/decal/pallet,
+/turf/open/floor/plating/concrete,
+/area/space)
+"xB" = (
+/obj/structure/vampfence,
+/turf/open/floor/plating/concrete,
+/area/space)
+"Ao" = (
+/obj/effect/decal/pallet,
+/obj/structure/closet/cardboard,
+/turf/open/floor/plating/concrete,
+/area/space)
+"Av" = (
+/turf/open/floor/plating/vampplating,
+/area/space)
+"Cf" = (
+/obj/structure/table,
+/obj/structure/table,
+/obj/machinery/mineral/equipment_vendor/fastfood/clothing,
+/turf/open/floor/plating/vampplating,
+/area/space)
+"CN" = (
+/obj/structure/table,
+/turf/open/floor/plating/vampplating/mono,
+/area/space)
+"Dc" = (
+/obj/structure/trashcan,
+/turf/open/floor/plating/sidewalk,
+/area/space)
+"DD" = (
+/obj/structure/chair/wood{
+	dir = 1
+	},
+/turf/open/floor/plating/parquetry/old,
+/area/space)
+"Gf" = (
+/obj/structure/table,
+/obj/effect/turf_decal/trimline/yellow/warning{
+	dir = 1
+	},
+/obj/machinery/light{
+	dir = 8
+	},
+/turf/open/floor/plating/vampplating/mono,
+/area/space)
+"GX" = (
+/obj/structure/vampfence/corner,
+/turf/open/floor/plating/concrete,
+/area/space)
+"Ho" = (
+/turf/open/floor/plating/parquetry/old,
+/area/space)
+"Jq" = (
+/obj/structure/closet/crate/large,
+/obj/item/melee/vampirearms/chainsaw,
+/turf/open/floor/plating/parquetry/old,
+/area/space)
+"JG" = (
+/obj/item/kirbyplants/random{
+	pixel_x = 9;
+	pixel_y = 3
+	},
+/obj/item/kirbyplants/random{
+	pixel_x = 8;
+	pixel_y = 18
+	},
+/turf/open/floor/plating/concrete,
+/area/space)
+"Kz" = (
+/obj/structure/table/wood,
+/obj/structure/showcase/machinery/tv{
+	pixel_x = 2;
+	pixel_y = 19
+	},
+/turf/open/floor/plating/parquetry/old,
+/area/space)
+"KB" = (
+/obj/structure/table/wood,
+/turf/open/floor/plating/parquetry/old,
+/area/space)
+"Mc" = (
+/obj/structure/chair/wood{
+	dir = 8
+	},
+/turf/open/floor/plating/concrete,
+/area/space)
+"Mt" = (
+/turf/closed/wall/vampwall,
+/area/space)
+"MT" = (
+/obj/structure/vampdoor/glass{
+	dir = 1
+	},
+/turf/open/floor/plating/vampplating,
+/area/space)
+"Nj" = (
+/obj/structure/closet/cardboard,
+/turf/open/floor/plating/parquetry/old,
+/area/space)
+"Ow" = (
+/turf/open/floor/plating/concrete,
+/area/space)
+"Ox" = (
+/obj/structure/table/wood,
+/obj/item/paper{
+	pixel_x = 1;
+	pixel_y = 7
+	},
+/obj/item/paper{
+	pixel_y = 5;
+	pixel_x = 10
+	},
+/obj/item/paper{
+	pixel_y = 1;
+	pixel_x = -8
+	},
+/obj/item/flashlight/lamp{
+	pixel_y = 12;
+	pixel_x = -9
+	},
+/obj/item/paper{
+	pixel_y = 3;
+	pixel_x = -3
+	},
+/turf/open/floor/plating/parquetry/old,
+/area/space)
+"PJ" = (
+/turf/open/floor/plating/sidewalk,
+/area/space)
+"Rb" = (
+/obj/effect/decal/litter,
+/turf/open/floor/plating/concrete,
+/area/space)
+"RM" = (
+/obj/structure/toilet{
+	dir = 1
+	},
+/turf/open/floor/plating/concrete,
+/area/space)
+"RY" = (
+/obj/machinery/camera/directional/east,
+/obj/structure/closet/crate/bin,
+/turf/open/floor/plating/concrete,
+/area/space)
+"Sz" = (
+/obj/machinery/light{
+	pixel_y = 32
+	},
+/turf/open/floor/plating/vampplating,
+/area/space)
+"Tp" = (
+/obj/structure/vampdoor/glass{
+	dir = 4
+	},
+/turf/open/floor/plating/vampplating,
+/area/space)
+"Uk" = (
+/obj/structure/rack,
+/obj/item/flashlight,
+/obj/item/flashlight,
+/turf/open/floor/plating/vampplating/mono,
+/area/space)
+"Uw" = (
+/obj/structure/fence/door/opened{
+	dir = 4
+	},
+/turf/open/floor/plating/concrete,
+/area/space)
+"Vk" = (
+/obj/effect/turf_decal/trimline/yellow/warning{
+	dir = 4
+	},
+/turf/open/floor/plating/vampplating/mono,
+/area/space)
+"Xg" = (
+/obj/structure/table,
+/obj/vampire_computer,
+/turf/open/floor/plating/vampplating,
+/area/space)
+"XU" = (
+/obj/structure/chair/wood{
+	dir = 4
+	},
+/turf/open/floor/plating/concrete,
+/area/space)
+"Yl" = (
+/obj/structure/chair/wood{
+	dir = 8
+	},
+/mob/living/carbon/human/npc/shop,
+/turf/open/floor/plating/vampplating,
+/area/space)
+"Zy" = (
+/obj/structure/table/wood,
+/obj/vampire_computer,
+/turf/open/floor/plating/parquetry/old,
+/area/space)
+"ZQ" = (
+/turf/closed/wall/vampwall/old/low/window,
+/area/space)
+
+(1,1,1) = {"
+PJ
+PJ
+PJ
+PJ
+PJ
+PJ
+PJ
+PJ
+PJ
+PJ
+PJ
+PJ
+PJ
+PJ
+PJ
+"}
+(2,1,1) = {"
+PJ
+GX
+xB
+xB
+xB
+Uw
+na
+xB
+xB
+xB
+xB
+hO
+PJ
+PJ
+PJ
+"}
+(3,1,1) = {"
+PJ
+eR
+bS
+iR
+wK
+Ow
+Ow
+wi
+wi
+iR
+Ao
+eR
+PJ
+PJ
+PJ
+"}
+(4,1,1) = {"
+PJ
+eR
+Rb
+Ow
+Ow
+Ow
+Ow
+Ow
+uz
+Ow
+Ow
+nv
+PJ
+PJ
+PJ
+"}
+(5,1,1) = {"
+PJ
+eR
+oH
+oH
+RY
+Ow
+Ow
+Ow
+Ow
+Ow
+Ow
+nv
+PJ
+PJ
+PJ
+"}
+(6,1,1) = {"
+PJ
+Mt
+Mt
+Mt
+Mt
+Ow
+Ow
+Ow
+XU
+Mc
+RM
+eR
+re
+PJ
+PJ
+"}
+(7,1,1) = {"
+PJ
+oF
+Ho
+oS
+Mt
+JG
+sm
+Ow
+jM
+XU
+bP
+eR
+Dc
+PJ
+PJ
+"}
+(8,1,1) = {"
+PJ
+Mt
+Ho
+Jq
+Mt
+ZQ
+ZQ
+Tp
+ZQ
+ZQ
+Mt
+Mt
+Mt
+Mt
+PJ
+"}
+(9,1,1) = {"
+PJ
+Mt
+Ho
+Ho
+Mt
+Av
+Av
+Av
+Av
+Av
+Gf
+CN
+iZ
+ZQ
+PJ
+"}
+(10,1,1) = {"
+PJ
+Mt
+Nj
+Ho
+Mt
+sv
+Av
+Av
+Av
+Av
+en
+Vk
+Vk
+ZQ
+PJ
+"}
+(11,1,1) = {"
+PJ
+Mt
+vS
+Ho
+Mt
+Sz
+eO
+Cf
+Av
+Av
+Av
+Av
+Av
+gi
+PJ
+"}
+(12,1,1) = {"
+PJ
+Mt
+Ox
+Ho
+oF
+Av
+Yl
+eO
+Av
+Av
+Av
+Av
+Av
+MT
+PJ
+"}
+(13,1,1) = {"
+PJ
+Mt
+Zy
+DD
+Mt
+Av
+Av
+eO
+Av
+Uk
+kE
+kE
+Av
+ZQ
+PJ
+"}
+(14,1,1) = {"
+PJ
+Mt
+Kz
+KB
+Mt
+Av
+Av
+Xg
+Av
+kE
+kE
+kE
+Av
+ZQ
+PJ
+"}
+(15,1,1) = {"
+PJ
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Sz
+Av
+Av
+Av
+Av
+Mt
+PJ
+"}
+(16,1,1) = {"
+PJ
+Mt
+Av
+Av
+Av
+Av
+Av
+Mt
+Av
+Av
+Av
+Av
+Av
+Mt
+PJ
+"}
+(17,1,1) = {"
+PJ
+Mt
+Av
+Av
+Av
+Av
+Av
+Mt
+kE
+kE
+kE
+kE
+kE
+Mt
+PJ
+"}
+(18,1,1) = {"
+PJ
+Mt
+Av
+Av
+Av
+Av
+Av
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+Mt
+PJ
+"}
+(19,1,1) = {"
+PJ
+Mt
+Mt
+Av
+Mt
+Mt
+Mt
+Mt
+Av
+Av
+Av
+Av
+Av
+Mt
+PJ
+"}
