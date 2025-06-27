@@ -1,14 +1,17 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
-"aq" = (
+"ag" = (
+/obj/effect/decal/bordur{
+	dir = 1
+	},
+/turf/open/floor/plating/roofwalk,
+/area/space)
+"bf" = (
+/obj/effect/decal/bordur{
+	dir = 8
+	},
 /obj/effect/decal/bordur,
 /turf/open/floor/plating/roofwalk,
 /area/space)
-"aN" = (
-/obj/structure/rack,
-/obj/effect/spawner/random/engineering/material_cheap,
-/obj/effect/spawner/random/engineering/material_cheap,
-/turf/open/floor/plating/vampplating/mono,
-/area/vtm/interior/shop)
 "bP" = (
 /obj/structure/toilet,
 /turf/open/floor/plating/concrete,
@@ -19,10 +22,12 @@
 /obj/structure/closet/crate/large,
 /turf/open/floor/plating/concrete,
 /area/space)
-"em" = (
-/obj/effect/decal/bordur{
-	dir = 1
-	},
+"cv" = (
+/obj/effect/spawner/random/trash/mess,
+/turf/open/floor/plating/sidewalk,
+/area/space)
+"ea" = (
+/obj/structure/roofstuff,
 /turf/open/floor/plating/roofwalk,
 /area/space)
 "en" = (
@@ -41,9 +46,6 @@
 	},
 /turf/open/floor/plating/concrete,
 /area/space)
-"fA" = (
-/turf/open/openspace,
-/area/space)
 "gi" = (
 /obj/structure/vampdoor/glass,
 /turf/open/floor/plating/vampplating,
@@ -53,12 +55,6 @@
 	dir = 8
 	},
 /turf/open/floor/plating/concrete,
-/area/space)
-"iP" = (
-/obj/effect/decal/bordur{
-	dir = 10
-	},
-/turf/open/floor/plating/roofwalk,
 /area/space)
 "iR" = (
 /obj/effect/decal/pallet,
@@ -75,15 +71,6 @@
 "jM" = (
 /obj/structure/chair/wood,
 /turf/open/floor/plating/concrete,
-/area/space)
-"ki" = (
-/obj/effect/decal/bordur{
-	dir = 8
-	},
-/obj/effect/decal/bordur{
-	dir = 1
-	},
-/turf/open/floor/plating/roofwalk,
 /area/space)
 "kE" = (
 /obj/structure/rack,
@@ -129,6 +116,15 @@
 /obj/item/reagent_containers/food/condiment/peppermill,
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/interior/shop)
+"pY" = (
+/obj/effect/decal/bordur{
+	dir = 10
+	},
+/turf/open/floor/plating/roofwalk,
+/area/space)
+"qP" = (
+/turf/open/floor/plating/roofwalk,
+/area/space)
 "re" = (
 /obj/effect/decal/trash{
 	icon_state = "trash8"
@@ -153,8 +149,8 @@
 	},
 /turf/open/floor/plating/vampplating,
 /area/vtm/interior/shop)
-"tA" = (
-/turf/open/floor/plating/roofwalk,
+"sH" = (
+/turf/open/openspace,
 /area/space)
 "uz" = (
 /obj/item/melee/vampirearms/brick{
@@ -162,6 +158,10 @@
 	pixel_y = -7
 	},
 /turf/open/floor/plating/concrete,
+/area/space)
+"vE" = (
+/obj/effect/decal/bordur,
+/turf/open/floor/plating/roofwalk,
 /area/space)
 "vS" = (
 /obj/structure/closet/crate/large,
@@ -179,6 +179,12 @@
 /obj/structure/bricks,
 /turf/open/floor/plating/concrete,
 /area/space)
+"wA" = (
+/obj/structure/rack,
+/obj/effect/spawner/random/engineering/material_cheap,
+/obj/effect/spawner/random/engineering/material_cheap,
+/turf/open/floor/plating/vampplating/mono,
+/area/vtm/interior/shop)
 "wK" = (
 /obj/effect/decal/pallet,
 /turf/open/floor/plating/concrete,
@@ -187,14 +193,18 @@
 /obj/structure/vampfence,
 /turf/open/floor/plating/concrete,
 /area/space)
-"yO" = (
-/turf/open/floor/plating/vampplating,
-/area/vtm/interior/shop)
-"zn" = (
+"xR" = (
 /obj/structure/rack,
-/obj/effect/spawner/random/engineering/material,
+/obj/effect/spawner/random/engineering/tool,
+/obj/effect/spawner/random/engineering/tool,
 /turf/open/floor/plating/vampplating/mono,
 /area/vtm/interior/shop)
+"xT" = (
+/obj/effect/decal/bordur{
+	dir = 8
+	},
+/turf/open/floor/plating/roofwalk,
+/area/space)
 "Ao" = (
 /obj/effect/decal/pallet,
 /obj/structure/closet/cardboard,
@@ -202,6 +212,15 @@
 /area/space)
 "Av" = (
 /turf/open/floor/plating/vampplating,
+/area/space)
+"AL" = (
+/obj/effect/decal/bordur{
+	dir = 8
+	},
+/obj/effect/decal/bordur{
+	dir = 1
+	},
+/turf/open/floor/plating/roofwalk,
 /area/space)
 "Cf" = (
 /obj/structure/table,
@@ -223,6 +242,11 @@
 	dir = 1
 	},
 /turf/open/floor/plating/parquetry/old,
+/area/vtm/interior/shop)
+"FP" = (
+/obj/structure/rack,
+/obj/effect/spawner/random/engineering/material,
+/turf/open/floor/plating/vampplating/mono,
 /area/vtm/interior/shop)
 "Gf" = (
 /obj/structure/table,
@@ -257,10 +281,6 @@
 	},
 /turf/open/floor/plating/concrete,
 /area/space)
-"Kb" = (
-/obj/structure/roofstuff,
-/turf/open/floor/plating/roofwalk,
-/area/space)
 "Kz" = (
 /obj/structure/table/wood,
 /obj/structure/showcase/machinery/tv{
@@ -274,20 +294,6 @@
 /obj/effect/spawner/random/engineering/toolbox,
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/interior/shop)
-"KE" = (
-/obj/effect/decal/bordur,
-/obj/effect/decal/bordur{
-	dir = 8
-	},
-/turf/open/floor/plating/roofwalk,
-/area/space)
-"KL" = (
-/obj/effect/decal/bordur{
-	dir = 8
-	},
-/obj/effect/decal/bordur,
-/turf/open/floor/plating/roofwalk,
-/area/space)
 "Mc" = (
 /obj/structure/chair/wood{
 	dir = 8
@@ -304,7 +310,7 @@
 /turf/open/floor/plating/vampplating,
 /area/vtm/interior/shop)
 "Nj" = (
-/obj/structure/closet/cardboard,
+/obj/structure/bookcase/manuals/engineering,
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/interior/shop)
 "Ow" = (
@@ -335,15 +341,15 @@
 /obj/effect/spawner/random/bureaucracy/folder,
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/interior/shop)
-"Px" = (
-/turf/closed/wall/vampwall,
-/area/vtm/interior/shop)
 "PJ" = (
 /turf/open/floor/plating/sidewalk,
 /area/space)
-"Qo" = (
-/obj/effect/spawner/random/trash/mess,
-/turf/open/floor/plating/sidewalk,
+"PN" = (
+/obj/effect/decal/bordur,
+/obj/effect/decal/bordur{
+	dir = 8
+	},
+/turf/open/floor/plating/roofwalk,
 /area/space)
 "Rb" = (
 /obj/effect/decal/litter,
@@ -366,6 +372,12 @@
 	},
 /turf/open/floor/plating/vampplating,
 /area/vtm/interior/shop)
+"SL" = (
+/turf/open/floor/plating/vampplating,
+/area/vtm/interior/shop)
+"To" = (
+/turf/closed/wall/vampwall,
+/area/vtm/interior/shop)
 "Tp" = (
 /obj/structure/vampdoor/glass{
 	dir = 4
@@ -377,12 +389,6 @@
 /obj/item/flashlight,
 /obj/item/flashlight,
 /obj/effect/spawner/random/engineering/flashlight,
-/turf/open/floor/plating/vampplating/mono,
-/area/vtm/interior/shop)
-"Ul" = (
-/obj/structure/rack,
-/obj/effect/spawner/random/engineering/tool,
-/obj/effect/spawner/random/engineering/tool,
 /turf/open/floor/plating/vampplating/mono,
 /area/vtm/interior/shop)
 "Uw" = (
@@ -420,12 +426,6 @@
 /obj/vampire_computer,
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/interior/shop)
-"ZP" = (
-/obj/effect/decal/bordur{
-	dir = 8
-	},
-/turf/open/floor/plating/roofwalk,
-/area/space)
 "ZQ" = (
 /turf/closed/wall/vampwall/old/low/window,
 /area/vtm/interior/shop)
@@ -516,11 +516,11 @@ PJ
 PJ
 "}
 (6,1,1) = {"
-Qo
-Px
-Px
-Px
-Px
+cv
+To
+To
+To
+To
 Ow
 Ow
 Ow
@@ -537,7 +537,7 @@ PJ
 oF
 Ho
 oS
-Px
+To
 JG
 sm
 Ow
@@ -551,32 +551,32 @@ PJ
 "}
 (8,1,1) = {"
 PJ
-Px
+To
 Ho
 Jq
-Px
+To
 ZQ
 ZQ
 Tp
 ZQ
 ZQ
-Px
-Px
-Px
-Px
+To
+To
+To
+To
 PJ
 "}
 (9,1,1) = {"
 PJ
-Px
+To
 Ho
 Ho
-Px
-yO
-yO
-yO
-yO
-yO
+To
+SL
+SL
+SL
+SL
+SL
 Gf
 CN
 iZ
@@ -585,15 +585,15 @@ PJ
 "}
 (10,1,1) = {"
 PJ
-Px
+To
 Nj
 Ho
-Px
+To
 sv
-yO
-yO
-yO
-yO
+SL
+SL
+SL
+SL
 en
 Vk
 Vk
@@ -602,87 +602,87 @@ PJ
 "}
 (11,1,1) = {"
 PJ
-Px
+To
 vS
 Ho
-Px
+To
 Sz
 eO
 Cf
-yO
-yO
-yO
-yO
-yO
+SL
+SL
+SL
+SL
+SL
 gi
 PJ
 "}
 (12,1,1) = {"
 PJ
-Px
+To
 Ox
 Ho
 oF
-yO
+SL
 Yl
 eO
-yO
-yO
-yO
-yO
-yO
+SL
+SL
+SL
+SL
+SL
 MT
 PJ
 "}
 (13,1,1) = {"
 PJ
-Px
+To
 Zy
 DD
-Px
-yO
-yO
+To
+SL
+SL
 eO
-yO
+SL
 Uk
-Ul
+xR
 kE
-yO
+SL
 ZQ
 PJ
 "}
 (14,1,1) = {"
 PJ
-Px
+To
 Kz
 KB
-Px
-yO
-yO
+To
+SL
+SL
 Xg
-yO
-zn
+SL
+FP
 kE
-aN
-yO
+wA
+SL
 ZQ
 PJ
 "}
 (15,1,1) = {"
 PJ
-Px
-Px
-Px
-Px
-Px
-Px
-Px
+To
+To
+To
+To
+To
+To
+To
 Sz
-yO
-yO
-yO
-yO
-Px
+SL
+SL
+SL
+SL
+To
 PJ
 "}
 (16,1,1) = {"
@@ -693,13 +693,13 @@ Av
 Av
 Av
 Av
-Px
-yO
-yO
-yO
-yO
-yO
-Px
+To
+SL
+SL
+SL
+SL
+SL
+To
 PJ
 "}
 (17,1,1) = {"
@@ -710,13 +710,13 @@ Av
 Av
 Av
 Av
-Px
+To
 kE
 kE
 kE
 kE
 kE
-Px
+To
 PJ
 "}
 (18,1,1) = {"
@@ -727,13 +727,13 @@ Av
 Av
 Av
 Av
-Px
-Px
-Px
-Px
-Px
-Px
-Px
+To
+To
+To
+To
+To
+To
+To
 PJ
 "}
 (19,1,1) = {"
@@ -755,325 +755,325 @@ PJ
 "}
 
 (1,1,2) = {"
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
 "}
 (2,1,2) = {"
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
 "}
 (3,1,2) = {"
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
 "}
 (4,1,2) = {"
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
 "}
 (5,1,2) = {"
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
 "}
 (6,1,2) = {"
-fA
-ki
-ZP
-ZP
-KE
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
+sH
+AL
+xT
+xT
+PN
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
 "}
 (7,1,2) = {"
-fA
-em
-tA
-tA
-aq
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
-fA
+sH
+ag
+qP
+qP
+vE
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
+sH
 "}
 (8,1,2) = {"
-fA
-em
-tA
-tA
-iP
-ZP
-ZP
-ZP
-ZP
-ZP
-ZP
-ZP
-ZP
-KL
-fA
+sH
+ag
+qP
+qP
+pY
+xT
+xT
+xT
+xT
+xT
+xT
+xT
+xT
+bf
+sH
 "}
 (9,1,2) = {"
-fA
-em
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-aq
-fA
+sH
+ag
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+vE
+sH
 "}
 (10,1,2) = {"
-fA
-em
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-aq
-fA
+sH
+ag
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+vE
+sH
 "}
 (11,1,2) = {"
-fA
-em
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-Kb
-aq
-fA
+sH
+ag
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+ea
+vE
+sH
 "}
 (12,1,2) = {"
-fA
-em
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-aq
-fA
+sH
+ag
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+vE
+sH
 "}
 (13,1,2) = {"
-fA
-em
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-Kb
-aq
-fA
+sH
+ag
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+ea
+vE
+sH
 "}
 (14,1,2) = {"
-fA
-em
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-aq
-fA
+sH
+ag
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+vE
+sH
 "}
 (15,1,2) = {"
-fA
-em
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-Kb
-aq
-fA
+sH
+ag
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+ea
+vE
+sH
 "}
 (16,1,2) = {"
-fA
-em
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-aq
-fA
+sH
+ag
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+vE
+sH
 "}
 (17,1,2) = {"
-fA
-em
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-Kb
-aq
-fA
+sH
+ag
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+ea
+vE
+sH
 "}
 (18,1,2) = {"
-fA
-em
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-aq
-fA
+sH
+ag
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+vE
+sH
 "}
 (19,1,2) = {"
-fA
-em
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-tA
-aq
-fA
+sH
+ag
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+qP
+vE
+sH
 "}
