@@ -13,9 +13,13 @@ Format:
 	votable (is this map votable)
 endmap
 
-map kindredcity
+map sanfran
 	votable
 	default
+endmap
+
+map oldsanfran
+	votable
 endmap
 
 map runtimetown
