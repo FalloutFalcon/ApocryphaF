@@ -106,6 +106,7 @@
 #include "code\__DEFINES\obj_flags.dm"
 #include "code\__DEFINES\paper.dm"
 #include "code\__DEFINES\pda.dm"
+#include "code\__DEFINES\phone.dm"
 #include "code\__DEFINES\pinpointers.dm"
 #include "code\__DEFINES\pipe_construction.dm"
 #include "code\__DEFINES\plumbing.dm"
