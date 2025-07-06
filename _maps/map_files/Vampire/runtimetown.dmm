@@ -1,6 +1,6 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "ap" = (
-/obj/item/vamp/phone/street{
+/obj/item/smartphone/street{
 	pixel_z = 24
 	},
 /turf/open/floor/plating/vampbeach,
