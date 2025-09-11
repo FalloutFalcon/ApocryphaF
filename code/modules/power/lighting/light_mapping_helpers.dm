@@ -138,3 +138,6 @@ MAPPING_DIRECTIONAL_HELPERS(/obj/machinery/light/small/red, 0)
 
 // ---- Blacklight bulbs
 MAPPING_DIRECTIONAL_HELPERS(/obj/machinery/light/small/blacklight, 0)
+
+
+MAPPING_DIRECTIONAL_HELPERS(/obj/machinery/light/prince, 0)
