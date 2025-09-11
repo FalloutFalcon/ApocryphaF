@@ -10,10 +10,14 @@
 	///Initial direction of the railing.
 	var/ini_dir
 
+MAPPING_DIRECTIONAL_HELPERS(/obj/structure/railing, 0)
+
 /obj/structure/railing/corner //aesthetic corner sharp edges hurt oof ouch
 	icon_state = "railing_corner"
 	density = FALSE
 	climbable = FALSE
+
+MAPPING_DIRECTIONAL_HELPERS(/obj/structure/railing/corner, 0)
 
 /obj/structure/railing/metal
 	name = "metal railing"
@@ -23,11 +27,15 @@
 	density = TRUE
 	anchored = TRUE
 
+MAPPING_DIRECTIONAL_HELPERS(/obj/structure/railing/metal, 0)
+
 /obj/structure/railing/metal/corner
 	icon = 'icons/obj/railings.dmi'
 	icon_state = "railing_corner"
 	density = FALSE
 	climbable = FALSE
+
+MAPPING_DIRECTIONAL_HELPERS(/obj/structure/railing/corner, 0)
 
 /obj/structure/railing/ComponentInitialize()
 	. = ..()

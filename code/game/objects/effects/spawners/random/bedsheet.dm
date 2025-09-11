@@ -1,6 +1,6 @@
 /obj/effect/spawner/random/bedsheet
 	name = "random dorm bedsheet"
-	icon_state = "random_bedsheet"
+	icon_state = "bedsheet"
 	loot = list(
 		/obj/item/bedsheet,
 		/obj/item/bedsheet/blue,
@@ -17,7 +17,7 @@
 
 /obj/effect/spawner/random/bedsheet/double
 	name = "random dorm double bedsheet"
-	icon_state = "random_doublesheet"
+	icon_state = "bedsheet"
 	loot = list(
 		/obj/item/bedsheet/double,
 		/obj/item/bedsheet/double/blue,

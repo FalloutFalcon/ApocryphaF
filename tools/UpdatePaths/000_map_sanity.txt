@@ -6,3 +6,5 @@
 /obj/effect/decal/wallpaper/papers : /obj/effect/decal/wallpaper {@OLD}
 
 /obj/item/reagent_containers/glass/bowl/mushroom_bowl : /obj/item/reagent_containers/glass/bowl/ash_tray {@OLD}
+
+/obj/effect/mob_spawn/human/citizen : @DELETE

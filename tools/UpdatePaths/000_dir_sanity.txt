@@ -104,3 +104,15 @@
 /obj/machinery/light/prince{dir = 2} : /obj/machinery/light/prince/directional/south {@OLD}
 /obj/machinery/light/prince{dir = 4} : /obj/machinery/light/prince/directional/east {@OLD}
 /obj/machinery/light/prince{dir = 8} : /obj/machinery/light/prince/directional/west {@OLD}
+
+/obj/structure/railing{dir = @UNSET} : /obj/structure/railing/directional/south {@OLD}
+/obj/structure/railing{dir = 1} : /obj/structure/railing/directional/north {@OLD}
+/obj/structure/railing{dir = 2} : /obj/structure/railing/directional/south {@OLD}
+/obj/structure/railing{dir = 4} : /obj/structure/railing/directional/east {@OLD}
+/obj/structure/railing{dir = 8} : /obj/structure/railing/directional/west {@OLD}
+
+/obj/structure/railing/metal{dir = @UNSET} : /obj/structure/railing/metal/directional/south {@OLD}
+/obj/structure/railing/metal{dir = 1} : /obj/structure/railing/metal/directional/north {@OLD}
+/obj/structure/railing/metal{dir = 2} : /obj/structure/railing/metal/directional/south {@OLD}
+/obj/structure/railing/metal{dir = 4} : /obj/structure/railing/metal/directional/east {@OLD}
+/obj/structure/railing/metal{dir = 8} : /obj/structure/railing/metal/directional/west {@OLD}
