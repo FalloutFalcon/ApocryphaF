@@ -1287,3 +1287,9 @@
 /obj/structure/fluff/tv/order/random/Initialize()
 	. = ..()
 	icon_state = "order[rand(1,4)]"
+
+/obj/item/reagent_containers/glass/bowl/ash_tray
+	name = "ashtray"
+	desc = "A discreet ashtray for keeping things clean."
+	icon = 'icons/obj/lavaland/ash_flora.dmi'
+	icon_state = "mushroom_bowl"
