@@ -103,8 +103,10 @@
 	switch(sacrifice)
 		if("Yes")
 			I.forceMove(src)
-			user.visible_message("<span class='notice'>[user] places [I] into [src].</span>", \
-			"<span class='notice'>You place [I] into [src].</span>")
+			user.visible_message(
+				"<span class='notice'>[user] places [I] into [src].</span>",
+				"<span class='notice'>You place [I] into [src].</span>"
+			)
 		if("No")
 			user.visible_message("<span class='notice'>[user] thinks better of placing [I] into [src].</span>", \
 				"<span class='notice'>You think better of placing [I] into [src].</span>")
@@ -122,5 +124,6 @@
 		if(prob(25))
 			o.forceMove(get_turf(src))
 	animate(src, alpha = 0, time = 1 SECONDS)
+	QDEL_IN(src, 1 SECONDS)
 	spawn(1 SECONDS)
 		qdel(src)
